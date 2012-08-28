@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Vanir Tweaks</string>
+    <string name="title_section3">Smart Reflex</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section1">CPU/GPU</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+
+</resources>
